@@ -13,3 +13,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Niko Raint Cahyono, [github.com](https://github.com/royalrumble).
+* Nana Desu, [github.com](https://github.com/Nafis100801).
